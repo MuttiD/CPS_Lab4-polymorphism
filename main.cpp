@@ -63,6 +63,7 @@ private:
     shape_is shape_type;
 };
 
+
 int main() {
     //input of values
     Shape square(8);
